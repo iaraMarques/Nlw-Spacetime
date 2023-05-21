@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido durante o NLW Spacetime da Rocketseat com as segui
       
 <br/>
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://iaraMarques.github.io/Nlw-Spacetime)
 
 ## 🔖 Layout
 
